@@ -1,4 +1,4 @@
-##The employee will be graded on the following criterion to this project
+##The employee will be evaluated based on the following criteria
 #### All skills measured are based on [The ScriptEd Advanced Rubric]()
 
 | Skill | Requirements met | Requirements not met | 
