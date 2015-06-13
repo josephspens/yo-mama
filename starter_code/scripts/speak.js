@@ -12,6 +12,7 @@ window.Speak = (function () {
      */
     // A browser check to make sure text to speech is supported
     var textToSpeechIsEnabled = 'speechSynthesis' in window;
+    var speechToTextIsEnabled = 'SpeechRecognition' in window;
 
     /**
      * PRIVATE METHODS
@@ -24,14 +25,9 @@ window.Speak = (function () {
      * @private
      */
     function sayText(text) {
-        var message;
-
         // First check to see if the device supports text to speech
         if (textToSpeechIsEnabled) {
-            // Create a new speech message
-            message = new window.SpeechSynthesisUtterance(text);
-            // Use the speech API to speak the message
-            window.speechSynthesis.speak(message);
+            // TODO
         }
     }
 
@@ -40,7 +36,10 @@ window.Speak = (function () {
      * @private
      */
     function listenToVoice() {
-        // TODO
+        // First check to see if the device supports speech to text
+        if (speechToTextIsEnabled) {
+            // TODO
+        }
     }
 
     /**

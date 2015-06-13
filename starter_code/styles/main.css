@@ -1,27 +1,6 @@
-body {
-    background-color: #356C9E;
-}
-
-.main {
-    max-width: 960px;
-    margin: 10em auto;
-    text-align: center;
-}
-
-.joke-button {
-    font-size: 2em;
-    padding: 0.5em 1em;
-    border: none;
-    background-color: #27A97F;
-    color: #ffffff;
-    box-shadow: 0 5px 0 #289270;
-    outline: none;
-    margin-bottom: 2em;
-}
-
-.joke-text {
-    margin: 0;
-    font-size: 2em;
-    color: #ffffff;
-    font-family: 'Slabo 27px';
-}
+/* TODO:
+ 1. Give the body a background color
+ 2. Position the button in the center of the page, and make it big
+ 3. Position the text underneath the button, make sure the text is readable
+ 4. Make sure everything is readable on small screens
+ */
