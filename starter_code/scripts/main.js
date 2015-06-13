@@ -8,7 +8,7 @@ var jokesUrl = 'https://domain.com';
  * Fetches jokes from the server
  */
 function fetchJokes() {
-    // TODO
+    // TODO(2)
 }
 
 /**
@@ -16,7 +16,7 @@ function fetchJokes() {
  * @param {array} response Array of joke objects fetched from the server
  */
 function populateJokes(response) {
-    // TODO
+    // TODO(3)
 }
 
 /**
@@ -24,7 +24,7 @@ function populateJokes(response) {
  * @param {object} jokeObject A joke from the jokes array
  */
 function displayJoke(jokeObject) {
-    // TODO
+    // TODO(6)
 }
 
 /**
@@ -32,13 +32,13 @@ function displayJoke(jokeObject) {
  * @returns {object} A joke from the jokes array
  */
 function getRandomJoke() {
-    // TODO
+    // TODO(5)
 }
 
 // Code we want to run when the page loads
 $(function () {
-    // TODO: Create an event handler for the button so that clicking the
+    // TODO(4): Create an event handler for the button so that clicking the
     // button triggers a new joke.
 });
 
-// TODO: We need to initially fetch jokes from the server
+// TODO(1): We need to initially fetch jokes from the server
