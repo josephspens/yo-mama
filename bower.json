@@ -1,9 +1,0 @@
-{
-  "name": "yo-mama",
-  "private": true,
-  "dependencies": {
-    "jquery": "~1.10.2",
-    "normalize-css": "~3.0.3"
-  },
-  "devDependencies": {}
-}
