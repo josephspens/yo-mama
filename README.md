@@ -3,40 +3,23 @@
 ![Yo Mama!](https://pbs.twimg.com/profile_images/406303048/yomamalogo-1.jpg)
 
 ##Scope
+To capitalize on the viral fury of the underground 'Yo Momma' battle scene, you have been tasked with designing and creating a webapp to help users find the best 'Yo Momma' joke to help them to become victorious.
 
-To capitalize on the viral fury of the underground 'Yo Mama' battle scene, you have been tasked
-
-with designing and creating a webapp to help users find the best 'Yo Mama' joke to help them to
-
-become victorious.
-
-##Project Description
-
-Your Manager has laid out the following requirements for the project:
+Your Manager has laid out the following requirements for the project: 
 
 * Implement a mock API to retreive the jokes
-
 * Allow users to interact with the application to get a new joke
-
 * Implement the ability to convert the joke to a voice text
 
 ##Learning Objectives
-
 By the end of this project the employee will be able to...
 
 * Understand the difference between a GET and POST requests (HTTP Methods)
-
 * Interpret the supplied API documentation and use the API for the application (APIs)
-
-* Understand the role of the client and the role of the server (Client­Service Interaction)
-
-* Understand how the client and the server interact (Client­Server Interaction)
-
+* Understand the role of the client and the role of the server (Client-Service Interaction)
+* Understand how the client and the server interact (Client-Server Interaction)
 * Analyze and interpret the supplied documentation to their project (Reading Comprehension)
-
-* Ability to explain and discuss projects in terms of APIs and HTTP requests (Technical
-
-Vocabulary)
+* Ability to explain and discuss projects in terms of APIs and HTTP requests (Technical Vocabulary)
 
 ##References/Tools
 
@@ -46,36 +29,17 @@ Vocabulary)
 * Web Speech Overview: http://stiltsoft.com/blog/2013/05/google-chrome-how-to-use-the-web-speech-api/
 
 ##Instructions
-
-You are given a stripped­down project to add the required functionality, which must be cloned into
-
-your own workspace. And make sure to read the comments!
+You are given a stripped-down project to add the required functionality, which must be cloned into your own workspace.  And make sure to read the comments!
 
 ###1) API Creation
 
 ####Why do I need this:
 
-As a developer, you will rely on components created by other people or other teams. One way to
-
-interact with other components is through a systematic interface ­ known as the API (Application
-
-Programming Interface). An API provides a set of specific format for the interaction between the
-
-callee and the caller ­ such as specifying the required inputs, the expected outputs, and possible
-
-error cases. Some APIs return information about products and recommended products
-
-(Amazon), post updates to social networks (Twitter or Facebook), or send money to your friend
-
-(Paypal, Venmo, etc.).
+As a developer, you will rely on components created by other people or other teams. One way to interact with other components is through a systematic interface - known as the API (Application Programming Interface).  An API provides a set of specific format for the interaction between the callee and the caller - such as specifying the required inputs, the expected outputs, and possible error cases.  Some APIs return information about products and recommended products (Amazon), post updates to social networks (Twitter or Facebook), or send money to your friend (Paypal, Venmo, etc.).
 
 ####What am I going to do:
 
-In this step, you will step into the role of an architect and create an API used by your website to
-
-retreive jokes from the service. The API will need to specify the inputs and the output, as well as
-
-mocking the expecting output (pretending to be the server and returning an output).
+In this step, you will step into the role of an architect and create an API used by your website to retreive jokes from the service.  The API will need to specify the inputs and the output, as well as mocking the expecting output (pretending to be the server and returning an output).
 
 ####Creating Mock Endpoint
 1. Go to [mockable.io](https://www.mockable.io/)
