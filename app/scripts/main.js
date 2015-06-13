@@ -40,7 +40,9 @@
         // `jokeObject` is an object, in order to get the text string for the
         // joke, we need to access the `joke` property on the joke object.
         var text = jokeObject.joke;
-        $('.joke-text').text(text);
+        // The `hide` and `fadeIn` are used for the fade animation. `1000` is
+        // how long the fade animation will take in milliseconds. 1000ms = 1s.
+        $('.joke-text').hide().text(text).fadeIn(1000);
     }
 
     /**
