@@ -31,13 +31,23 @@ By the end of this project the employee will be able to...
   3. Set Response Body - This is what the backend will return to us when we make a request to this endpoint.  Try pasting in the following JSON (JavaScript Object Notation):
 
 ```json
-         {
-           jokes: [
-             "joke1",
-             "joke2",
-             "joke3"
-           ]
-         }
+        [
+            {
+                joke: "Yo mama so fat, her portrait fell off the wall."
+            },
+            {
+                joke: "Yo daddy's so ugly, when he looked out the window he was arrested for mooning!"
+            },
+            {
+                joke: "Yo mama so fat, she has a real horse on her polo shirt."
+            },
+            {
+                joke: "Yo mama so stupid, she walked into an antique shop and asked, 'What's new?'"
+            },
+            {
+                joke: "Yo mama so fat, she leaves stretch marks in the tub."
+            }
+        ]
 ```
 
   4. Click "Save" at the bottom of the screen
