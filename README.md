@@ -41,14 +41,9 @@ Vocabulary)
 ##References/Tools
 
 * Get/Post Request: http://www.w3schools.com/tags/ref_httpmethods.asp
-
-* API: http://money.howstuffworks.com/business­communications/how­to­leverage­an­api­for-
-conferencing1.htm
-
-* Web Speech API Documentation: https://dvcs.w3.org/hg/speech­api/raw­file/tip/speechapi.html
-
-* Web Speech Overview: http://stiltsoft.com/blog/2013/05/google­chrome­how­to­use­the­web-
-speech­api/
+* API: http://money.howstuffworks.com/business-communications/how-to-leverage-an-api-for-conferencing1.htm
+* Web Speech API Documentation: https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html
+* Web Speech Overview: http://stiltsoft.com/blog/2013/05/google-chrome-how-to-use-the-web-speech-api/
 
 ##Instructions
 
@@ -183,27 +178,17 @@ From here you can extend the project however you like!  Feel free to come up wit
 
 ##Vocabulary
 
-* Application Program Interface (API) ­ A set of interfaces to interact another web­based resource.
-
-* GET Requests ­ A request to retreive data from another resource
-
-* POST Requests ­ A request to submit data to another resoure for processing
-
-* AJAX Requests ­ A technique to provide interactivity between the client and server without
-
-# Endpoint   The URL where your service can be accessed by a client application
-
-reloading the page
-
-* Client ­ The program that requests another service to perform an action
-
-* Server ­ The program that performs the action requested by the client's request
+* Application Program Interface (API) - A set of interfaces to interact another web-based resource.
+* GET Requests - A request to retreive data from another resource
+* POST Requests - A request to submit data to another resoure for processing
+* AJAX Requests - A technique to provide interactivity between the client and server without reloading the page
+* Client - The program that requests another service to perform an action 
+* Server - The program that performs the action requested by the client's request
+* Endpoint - The URL where your service can be accessed by a client application reloading the page
 
 ##How to Submit
 
-This project must be pushed back up to your repo on GitHub. Then you will share your link with
-
-the instructor
+This project must be pushed back up to your repo on GitHub. Then you will share your link with the instructor
 
 ##Homework
 
