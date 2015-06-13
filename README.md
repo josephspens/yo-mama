@@ -1,6 +1,6 @@
-# Project Name
+#Project Name
 
-![image]()
+![Yo Mama!](https://pbs.twimg.com/profile_images/406303048/yomamalogo-1.jpg)
 
 ##Scope
 
