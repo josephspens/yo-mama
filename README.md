@@ -30,6 +30,7 @@ By the end of this project the employee will be able to...
   2. Set Verb - The verb is just the type of HTTP request we want to make.  We'll be using the GET verb because we're just fetching data from the backend.  If we wanted to store data in the backend we'd probably use the POST verb.
   3. Set Response Body - This is what the backend will return to us when we make a request to this endpoint.  Try pasting in the following JSON (JavaScript Object Notation):
 
+```json
          {
            jokes: [
              "joke1",
@@ -37,6 +38,7 @@ By the end of this project the employee will be able to...
              "joke3"
            ]
          }
+```
 
   4. Click "Save" at the bottom of the screen
 5. Starting the endpoint
