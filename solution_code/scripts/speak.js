@@ -1,11 +1,8 @@
 /**
- * An object with various speech functionality. Can do speech to text, and text
- * to speech. We're adding the Speak class to the window, which means it's
- * globally available for other modules.
+ * An object with text to speech functionality. We're adding the Speak class to
+ * the window, which means it's globally available for other modules.
  */
 window.Speak = (function () {
-    'use strict';
-
     /**
      * PRIVATE VARIABLES
      * -----------------
@@ -36,19 +33,10 @@ window.Speak = (function () {
     }
 
     /**
-     * Uses voice to text javascript API to record audio to text
-     * @private
-     */
-    function listenToVoice() {
-        // TODO
-    }
-
-    /**
      * PUBLIC METHODS
      * ----------------
      */
     return {
-        say: sayText,
-        listen: listenToVoice
+        say: sayText
     };
 })();
