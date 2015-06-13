@@ -123,11 +123,6 @@ entire page
 7. Write a function to retrieve a random joke from the jokes array.
 8. Write a function to display the joke on the screen.
 
-#####Bonus:
-
-9. In speak.js, use the text to voice javascript API to speak a string of text.
-10. Back in main.js, use the function you just wrote to speak the joke as it's displayed.
-
 ###3) Speech Implementation
 
 ####Why do I need this:
@@ -145,6 +140,11 @@ Speech's API to convert text to audio.
 You will implement a method to use Web Speech's API based on their documentation (with
 
 assistance from the web) to voice out the text.
+
+#####How I will do this:
+
+9. In speak.js, use the text to voice javascript API to speak a string of text.
+10. Back in main.js, use the function you just wrote to speak the joke as it's displayed.
 
 ###4) Next Steps
 From here you can extend the project however you like!  Feel free to come up with your own ideas, or implement some of the ideas below:

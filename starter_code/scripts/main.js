@@ -24,7 +24,7 @@ function populateJokes(response) {
  * @param {object} jokeObject A joke from the jokes array
  */
 function displayJoke(jokeObject) {
-    // TODO(8)
+    // TODO(8, 10)
 }
 
 /**
