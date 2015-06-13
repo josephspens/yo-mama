@@ -171,6 +171,16 @@ You will implement a method to use Web Speech's API based on their documentation
 
 assistance from the web) to voice out the text.
 
+###4) Next Steps
+From here you can extend the project however you like!  Feel free to come up with your own ideas, or implement some of the ideas below:
+
+####Potential Ideas
+1. Add more Yo Mama jokes
+2. Figure out a way so you don't reuse any of the jokes until the user has gone through them all (but keep their order random!).
+3. Make the same project but with motivational statements instead of Yo Mama jokes
+4. Make a magic 8-ball project that returns a different answer each time.  If you're using a mobile device, you could have it give a different answer each time you shake or add an 8-ball animation each time it gives a new answer.
+5. Makes a test taker project that randomly returns A, B, C, or D for helping you fill in scantron tests.
+
 ##Vocabulary
 
 * Application Program Interface (API) ­ A set of interfaces to interact another web­based resource.
@@ -180,6 +190,8 @@ assistance from the web) to voice out the text.
 * POST Requests ­ A request to submit data to another resoure for processing
 
 * AJAX Requests ­ A technique to provide interactivity between the client and server without
+
+# Endpoint   The URL where your service can be accessed by a client application
 
 reloading the page
 
