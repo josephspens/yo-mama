@@ -41,14 +41,13 @@ By the end of this project the employee will be able to...
   1. You should see the endpoint you just created with a red button on the left that says "Stopped".  It should look like this:
 ![Endpoint Stopped](http://i.imgur.com/wPAQ1Nk.png)
 
-  2. Click that button to make your endpoint live!  The button should now look like this:
+  2. Click the "Stopped" button to make your endpoint live!  The button should now look like this:
 ![Endpoint Started](http://i.imgur.com/RhIX6SU.png)
 
   3. Now we should test out the endpoint.  Click on the link underneath the "Name" column.  It should take you to a page that looks like this:
 ![Edit Endpoint](http://i.imgur.com/CzPbwfN.png)
 
   4. Click on one of the links in this section and make sure it takes you to a page with the JSON you had entered for the Response Body
-
 ![Endpoint Links](http://i.imgur.com/dxsxsde.png)
 
 6. IMPORTANT - Your temporary account will expire in a day, so you if you want your mockable.io endpoint to keep working you must create an account in order to keep this API available.  Don't worry!  It's free!  Here's how you do it:
@@ -57,7 +56,8 @@ By the end of this project the employee will be able to...
 
   2. Click the "Tell me more" link which will take you to the next screen.
   3. Click one of the icons at the bottom of the screen to sign in (Google, Facebook, or StackExchange).
-![LoginIcons](http://i.imgur.com/pZo0Kjj.png)
+
+    ![LoginIcons](http://i.imgur.com/pZo0Kjj.png)
 
 ##Vocabulary
 
