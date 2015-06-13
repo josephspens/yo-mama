@@ -23,7 +23,7 @@ window.Speak = (function () {
     function sayText(text) {
         // First check to see if the device supports text to speech
         if (textToSpeechIsEnabled) {
-            // TODO
+            // TODO(9)
         }
     }
 

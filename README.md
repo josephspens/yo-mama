@@ -5,7 +5,7 @@
 ##Scope
 To capitalize on the viral fury of the underground 'Yo Momma' battle scene, you have been tasked with designing and creating a webapp to help users find the best 'Yo Momma' joke to help them to become victorious.
 
-Your Manager has laid out the following requirements for the project: 
+Your Manager has laid out the following requirements for the project:
 
 * Implement a mock API to retreive the jokes
 * Allow users to interact with the application to get a new joke
@@ -96,7 +96,7 @@ In this step, you will step into the role of an architect and create an API used
 7. You should now have a working endpoint for your project!  Congratulations!
 
 
-###2) Adding Interactivity
+###2) Adding User Interface
 
 ####Why do I need this:
 
@@ -111,6 +111,22 @@ reload provides a better, more seamless experience for users.
 You will implement the ability to show a new joke to the user without the need of reloading the
 
 entire page
+
+####How I will do this:
+
+1. Add a button to index.html which will be used to trigger a new joke.
+2. Add an area in index.html to display the joke text.
+3. In main.js, write a function to fetch jokes from the server.
+4. Write a function to take the server response and store it locally.
+5. Call the fetch function when the script runs.
+6. Create an event handler for the button so that clicking the button triggers a new joke.
+7. Write a function to retrieve a random joke from the jokes array.
+8. Write a function to display the joke on the screen.
+
+#####Bonus:
+
+9. In speak.js, use the text to voice javascript API to speak a string of text.
+10. Back in main.js, use the function you just wrote to speak the joke as it's displayed.
 
 ###3) Speech Implementation
 
@@ -146,7 +162,7 @@ From here you can extend the project however you like!  Feel free to come up wit
 * GET Requests - A request to retreive data from another resource
 * POST Requests - A request to submit data to another resoure for processing
 * AJAX Requests - A technique to provide interactivity between the client and server without reloading the page
-* Client - The program that requests another service to perform an action 
+* Client - The program that requests another service to perform an action
 * Server - The program that performs the action requested by the client's request
 * Endpoint - The URL where your service can be accessed by a client application reloading the page
 
@@ -157,4 +173,3 @@ This project must be pushed back up to your repo on GitHub. Then you will share 
 ##Homework
 
 Instructor will assign homework based on progress in class.
-
